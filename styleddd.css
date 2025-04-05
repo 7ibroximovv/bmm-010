@@ -1,0 +1,15 @@
+.jadval {
+    text-align: center;
+    height: 500px;
+    background-color:black
+    color(gold)
+    font: size 30px;
+}
+.jadval{
+    border-radius: 10px
+}
+.jadval [
+    border-radius: 30px
+    width: 50%
+    height: 50%
+]
